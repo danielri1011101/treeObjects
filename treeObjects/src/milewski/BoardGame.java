@@ -25,6 +25,6 @@ public class BoardGame {
 	}
 	
 	/**
-	 * Now a move tree can simply be an array of move edges.
+	 * Now we can define Forest and perhaps Operad as well.
 	 */
 }
